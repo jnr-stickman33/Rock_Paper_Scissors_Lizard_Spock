@@ -8,4 +8,4 @@ hand into a sock-puppet-like mouth. Spock smashes scissors and vaporizes rock; h
 by lizard and disproven by paper. Lizard poisons Spock and eats paper; it is crushed by rock 
 and decapitated by scissors.
 
-As beginner, I wrote this hand game as part of a studies.
+As beginner, I wrote this hand game as part of a project for my studies.
